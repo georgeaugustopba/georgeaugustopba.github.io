@@ -1,11 +1,11 @@
 {
     "name": "digitalizaqui",
-    "short_name": "digitalizaqui",
+    "short_name": "tecnologia",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Comece no digital com DigitaliZaqui",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
